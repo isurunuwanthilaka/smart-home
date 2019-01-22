@@ -2,8 +2,8 @@
 #include <SoftwareSerial.h>
 #include <ESP8266WiFi.h>
 
-#define FIREBASE_HOST "smart-home-iot-ab2d0.firebaseio.com"
-#define FIREBASE_AUTH "wtqvhF8I7Uzzx2E2rMlWp6qykINuKMByPzUDaPgK"
+#define FIREBASE_HOST "******"
+#define FIREBASE_AUTH "******"
 #define WIFI_SSID "smart-home-iot"
 #define WIFI_PASSWORD "15042741052"
 
